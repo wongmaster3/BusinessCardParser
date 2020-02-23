@@ -4,6 +4,8 @@ This application reads business card data that is stored as a text document. It 
 
 Comments are used in the code files to explain more about the different components and logic.
 
+This application requires JDK 8 in order to run. 
+
 ## How to Run the Application
 Clone the directory and go to the directory in the command line. In order to run any specific test, run the following command where `path/to/test/document` is a text document that contains the business card text: 
 
